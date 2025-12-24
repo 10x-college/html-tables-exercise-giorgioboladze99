@@ -125,4 +125,4 @@
 **AND FINAL**
 use link below, put it inside `<head>` tag`under`<title  >` tag and enjoy!
 
-`<link rel="stylesheet" href="../styles/styles.css">`
+`<link rel=" " href="../styles/styles.css">`
